@@ -67,6 +67,3 @@ stationary_dist = create_stationary(No_components, No_components_to_func, No_rep
 y = sum(stationary_dist[No_components_to_func:No_components+1])
 
 st.write("### The fraction of the time the system is up:", y)
-
-
-#streamlit run /Users/davita/PycharmProjects/OBP2/.venv/app.py [ARGUMENTS]

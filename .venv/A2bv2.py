@@ -91,5 +91,3 @@ st.write(f"### The minimum cost is: {optimal_cost}")
 st.write(f"Optimal number of components: {optimal_nr_components}")
 st.write(f"Optimal number of repairmen: {optimal_nr_repairmen}")
 st.write(f"### The fraction of time the system is up: {optimal_y:.4f}")
-
-#streamlit run /Users/davita/PycharmProjects/OBP2/.venv/A2bv2.py [ARGUMENTS]
